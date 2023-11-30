@@ -1,7 +1,7 @@
 /// <reference types="cypress" />
 
 describe('My First Test', () => {
-    it('clicking tap and navigate to new url', () => {
+    it('clicking tap and navigateeeee to new url', () => {
       cy.visit('https://example.cypress.io')
 
       cy.contains('type').click()
